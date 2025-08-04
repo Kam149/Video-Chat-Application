@@ -93,18 +93,4 @@ Connection established.
 
 ---
 
-## Known Limitations
-
-* One-way video stream (no duplex chat)
-* No built-in audio support
-* Works best on the same local network
-
----
-
-## Possible Improvements
-
-* 🔁 Two-way video & audio
-* 📡 Support for internet-based P2P
-* 🔐 Encrypted data transmission
-* 🎛 Add GUI with PyQt
   
