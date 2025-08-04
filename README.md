@@ -1,26 +1,26 @@
-# 🎥 Video-Chat-Application
+# Video-Chat-Application
 
 A lightweight, real-time **video chat system** built using **Python** and **socket programming**. This project enables direct webcam-to-webcam streaming between two devices using simple Python scripts.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This application uses OpenCV and Python's socket library to establish a **client-server connection** for **real-time video transmission**. It’s perfect for learning the fundamentals of video streaming, networking, and multimedia communication in Python.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🔌 Peer-to-peer streaming over sockets
-* 🎥 Real-time webcam feed using OpenCV
-* 🧠 Modular, easy-to-read code
-* 🖥 Works on LAN without heavy frameworks
-* 💻 Cross-platform Python 3 support
+* Peer-to-peer streaming over sockets
+* Real-time webcam feed using OpenCV
+* Modular, easy-to-read code
+* Works on LAN without heavy frameworks
+* Cross-platform Python 3 support
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 .
@@ -34,7 +34,7 @@ This application uses OpenCV and Python's socket library to establish a **client
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Install the following Python packages:
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 ### 1. Start the Server
 
@@ -73,7 +73,7 @@ Ensure the client connects to the correct IP address and port defined in the ser
 
 ---
 
-## 📸 Screenshots & Demo
+## Screenshots & Demo
 
 ### Server Side (Sending Video Feed)
 
@@ -87,7 +87,7 @@ Ensure the client connects to the correct IP address and port defined in the ser
 
 ---
 
-## 💡 Sample Output
+## Sample Output
 
 **Terminal Output Example** (Client):
 
@@ -107,7 +107,7 @@ Connection established.
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 * One-way video stream (no duplex chat)
 * No built-in audio support
@@ -115,7 +115,7 @@ Connection established.
 
 ---
 
-## 🧩 Possible Improvements
+## Possible Improvements
 
 * 🔁 Two-way video & audio
 * 📡 Support for internet-based P2P
