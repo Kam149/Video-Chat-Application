@@ -73,20 +73,6 @@ Ensure the client connects to the correct IP address and port defined in the ser
 
 ---
 
-## Screenshots & Demo
-
-### Server Side (Sending Video Feed)
-
-![Server Webcam Feed](https://via.placeholder.com/500x300?text=Server+Sending+Video)
-
-### Client Side (Receiving Stream)
-
-![Client Receiving Feed](https://via.placeholder.com/500x300?text=Client+Receiving+Video)
-
-*You can replace the above placeholders with your actual screenshots or demo GIFs.*
-
----
-
 ## Sample Output
 
 **Terminal Output Example** (Client):
